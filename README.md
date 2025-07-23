@@ -2,6 +2,8 @@
 <br>
 <em>this is what claude thinks i look like *flattered*</em>
 </br>
+
+
 # Claude Code - Debugging Duck Demo
 
 A comprehensive video demonstration project that showcases Claude Code's powerful features through an educational video combining Remotion (React-based video creation) and Manim (mathematical animations). The project features an adorable debugging duck character that guides viewers through Claude Code's capabilities for enhancing developer productivity.
