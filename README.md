@@ -1,5 +1,6 @@
 <img width="613" height="382" alt="Screenshot 2025-07-23 at 4 48 32 PM" src="https://github.com/user-attachments/assets/3b2fdbdf-40f3-40af-85dd-e7b546deb24d" />
 <em>this is what claude thinks i look like *flattered*</em>
+
 # Claude Code - Debugging Duck Demo
 
 A comprehensive video demonstration project that showcases Claude Code's powerful features through an educational video combining Remotion (React-based video creation) and Manim (mathematical animations). The project features an adorable debugging duck character that guides viewers through Claude Code's capabilities for enhancing developer productivity.
