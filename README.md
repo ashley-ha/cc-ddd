@@ -166,6 +166,9 @@ The video showcases the following Claude Code capabilities:
    cp media/videos/debugging_duck/720p30/*.mp4 ../public/manim/
    ```
 
+
+
+
 ### Creating Video with Remotion
 
 1. **Navigate to Remotion workspace:**
